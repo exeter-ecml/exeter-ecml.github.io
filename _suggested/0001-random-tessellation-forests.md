@@ -5,7 +5,7 @@ title: "Random tessellation forests"
 
 citation: "
 Shufei Ge, Shijia Wang, Yee Whye Teh, Liangliang Wang,Lloyd Elliott
-**Random tessellation forests.**
+Random tessellation forests.
 In Advances in Neural Information Processing Systems 32, pages 9571–9581.
 Curran Associates, Inc.,
 2019
@@ -30,4 +30,6 @@ dependence to be captured. We present a simulation study and analyze gene
 expression data of brain tissue, showing improved accuracies over other 
 methods.
 "
+
+who_suggested: George De Ath
 ---

@@ -16,15 +16,46 @@ learning conferences, e.g. NeurIPS or ICML, it is very likely that a recording
 exists of the paper's author's presentation. These recordings can be used as an 
 alternative to the paper lead presenting an overview of the paper.
 
-### Upcoming Sessions
+Thanks to generous funding from the Computer Science department, we will be
+offering refreshments in the form of tea and coffee along with **cookies**.
 
-Date/Location | Paper
- :--------------- | :----
-18/03/2020 15:30 <br/> TBA | TBA
-01/04/2020 15:30 <br/> TBA | TBA
+### Upcoming Sessions
+<table>
+    <tbody>
+    <tr>
+        <th nowrap width="1%">When and Where</th><th>Session Details</th>
+    </tr>
+        
+    {% for session in site.upcomming %}
+    <tr>
+        <td nowrap><b>Date</b>: {{session.date | date_to_long_string}} <br/>
+                   <b>Time</b>: {{session.time}} <br/>
+                   <b>Location</b>: {{session.location}}
+        </td>
+        <td> {{session.content}} </td>
+    </tr>
+    {% endfor %}
+
+    </tbody>
+</table>
 
 ### Previous Sessions
 
-Date and Location | Paper
- :--------------- | :----
-N/A | N/A
+<table>
+    <tbody>
+    <tr>
+        <th nowrap width="1%">When and Where</th><th>Session Details</th>
+    </tr>
+        
+    {% for session in site.previous %}
+    <tr>
+        <td nowrap><b>Date</b>: {{session.date | date_to_long_string}} <br/>
+                   <b>Time</b>: {{session.time}} <br/>
+                   <b>Location</b>: {{session.location}}
+        </td>
+        <td> {{session.content}} </td>
+    </tr>
+    {% endfor %}
+
+    </tbody>
+</table>

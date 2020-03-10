@@ -5,7 +5,7 @@ title: "Approximate Cross-Validation in High Dimensions with Guarantees"
 
 citation: "
 William Stephenson, Tamara Broderick,
-**Approximate Cross-Validation in High Dimensions with Guarantees**,
+Approximate Cross-Validation in High Dimensions with Guarantees,
 arXiv:abs/1905.13657,
 2019
 "
@@ -32,4 +32,6 @@ corresponding algorithm is straightforward to implement, and we prove that its
 running time and error depend on the (small) support size even when the full 
 parameter dimension is large.
 "
+
+who_suggested: George De Ath
 ---

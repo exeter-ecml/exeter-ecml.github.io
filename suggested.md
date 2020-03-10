@@ -4,7 +4,19 @@ title: Suggested Papers
 sidebar_link: true
 ---
 
-{% for paper in site.suggested %}
-  [{{ paper.citation}}]({{paper.url}}){:target="_blank"}
-{% endfor %}
+<table>
+    <tbody>
+    <tr>
+        <th nowrap>Suggester</th><th>Paper</th>
+    </tr>
+    
+    {% for paper in site.suggested %}
+    <tr>
+        <td nowrap>{{paper.who_suggested}}</td>
+        <td><a href="{{paper.url}}">{{paper.title}}</a></td>
+    </tr>
+    {% endfor %}
+    
+    </tbody>
+</table>
 

@@ -5,7 +5,7 @@ title: "One-Shot Bayes Opt with Probabilistic Population Based Training"
 
 citation: "
 Jack Parker-Holder, Vu Nguyen, Stephen Roberts
-**One-Shot Bayes Opt with Probabilistic Population Based Training**,
+One-Shot Bayes Opt with Probabilistic Population Based Training,
 arXiv:abs/2002.02518,
 2020
 "
@@ -31,4 +31,6 @@ achieve these traits in a single training run. We show that P2BT is able to
 achieve high performance with only a small population size, making it useful 
 for all researchers regardless of their computational resources.
 "
+
+who_suggested: George De Ath
 ---

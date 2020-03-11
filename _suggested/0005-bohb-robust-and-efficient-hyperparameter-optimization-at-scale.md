@@ -7,7 +7,7 @@ citation: "
 Stefan Falkner, Aaron Klein, Frank Hutter,
 BOHB: Robust and Efficient Hyperparameter Optimization at Scale
 Proceedings of the 35th International Conference on Machine Learning, 
-in PMLR 80:1437-1446, 2020
+in PMLR 80:1437-1446, 2018
 "
 
 link: http://proceedings.mlr.press/v80/falkner18a.html

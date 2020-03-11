@@ -33,3 +33,6 @@ methods.
 
 who_suggested: George De Ath
 ---
+Reviews: <http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips32/reviews/5087.html>
+
+Slides: <https://www.sfu.ca/~lloyde/Ge2019a-talk.pdf>

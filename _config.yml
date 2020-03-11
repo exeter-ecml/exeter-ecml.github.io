@@ -36,7 +36,7 @@ url: ""
 
 # Build settings
 markdown: kramdown
-remote_theme: fongandrew/hydeout
+#theme: hydeout
 plugins:
 #  - jekyll-feed
 #  - jekyll-paginate

@@ -30,7 +30,8 @@ overview of the paper.
 Thanks to generous funding from the 
 [University of Exeter's Computer Science department](http://emps.exeter.ac.uk/computer-science/), 
 we will be offering refreshments 
-in the form of tea and coffee along with **cookies**.
+in the form of tea and coffee along with **cookies**
+(once we're back to real-life meetings).
 
 ### Upcoming Sessions
 <table>

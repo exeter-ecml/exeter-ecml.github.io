@@ -38,3 +38,7 @@ status: happened
 More information: <https://www.automl.org/blog_bohb/>
 
 Code: <https://github.com/automl/HpBandSter>
+
+### Links from meeting
+
+Interactive GP demos: [#1](http://www.tmpl.fi/gp/) [#2](http://chifeng.scripts.mit.edu/stuff/gp-demo/)

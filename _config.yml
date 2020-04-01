@@ -52,12 +52,9 @@ sidebar_home_link: true
 
 # collections - so we can iterate over pages
 collections:
-    suggested:
+    papers:
         output: true
         permalink: /:collection/:name
-    upcomming:
-        output: true
-        permalink: /:collection/:name
-    previous:
+    meetings:
         output: true
         permalink: /:collection/:name

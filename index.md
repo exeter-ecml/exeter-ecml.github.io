@@ -40,14 +40,17 @@ in the form of tea and coffee along with **cookies**
         <th nowrap width="1%">When and Where</th><th>Session Details</th>
     </tr>
         
-    {% for session in site.upcomming %}
-    <tr>
-        <td nowrap><b>Date</b>: {{session.date | date_to_long_string}} <br/>
-                   <b>Time</b>: {{session.time}} <br/>
-                   <b>Location</b>: {{session.location}}
-        </td>
-        <td> {{session.content}} </td>
-    </tr>
+    {% for meeting in site.meetings %}
+        {% if meeting.status == "upcoming" %}
+        <tr>
+            <td nowrap><b>Date</b>: {{meeting.date | date_to_long_string}} <br/>
+                       <b>Time</b>: {{meeting.time}} <br/>
+                       <b>Location</b>: {{meeting.location}} <br/>
+                       <b>Presenter</b>: {{meeting.presenter}}
+            </td>
+            <td> {{meeting.content}} </td>
+        </tr>
+        {% endif %}
     {% endfor %}
 
     </tbody>
@@ -61,14 +64,17 @@ in the form of tea and coffee along with **cookies**
         <th nowrap width="1%">When and Where</th><th>Session Details</th>
     </tr>
         
-    {% for session in site.previous %}
-    <tr>
-        <td nowrap><b>Date</b>: {{session.date | date_to_long_string}} <br/>
-                   <b>Time</b>: {{session.time}} <br/>
-                   <b>Location</b>: {{session.location}}
-        </td>
-        <td> {{session.content}} </td>
-    </tr>
+    {% for meeting in site.meetings %}
+        {% if meeting.status == "happened" %}
+        <tr>
+            <td nowrap><b>Date</b>: {{meeting.date | date_to_long_string}} <br/>
+                       <b>Time</b>: {{meeting.time}} <br/>
+                       <b>Location</b>: {{meeting.location}} <br/>
+                       <b>Presenter</b>: {{meeting.presenter}}
+            </td>
+            <td> {{meeting.content}} </td>
+        </tr>
+        {% endif %}
     {% endfor %}
 
     </tbody>

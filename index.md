@@ -48,7 +48,7 @@ in the form of tea and coffee along with **cookies**
                        <b>Location</b>: {{meeting.location}} <br/>
                        <b>Presenter</b>: {{meeting.presenter}}
             </td>
-            <td> {{meeting.content}} </td>
+            <td>{{meeting.content | remove: '<p>' | remove: '</p>'}}</td>
         </tr>
         {% endif %}
     {% endfor %}
@@ -72,7 +72,7 @@ in the form of tea and coffee along with **cookies**
                        <b>Location</b>: {{meeting.location}} <br/>
                        <b>Presenter</b>: {{meeting.presenter}}
             </td>
-            <td> {{meeting.content}} </td>
+            <td>{{meeting.content | remove: '<p>' | remove: '</p>'}}</td>
         </tr>
         {% endif %}
     {% endfor %}

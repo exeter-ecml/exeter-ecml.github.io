@@ -63,8 +63,8 @@ in the form of tea and coffee along with **cookies**
     <tr>
         <th nowrap width="1%">When and Where</th><th>Session Details</th>
     </tr>
-        
-    {% for meeting in site.meetings %}
+
+    {% for meeting in site.meetings reversed %}
         {% if meeting.status == "happened" %}
         <tr>
             <td nowrap><b>Date</b>: {{meeting.date | date_to_long_string}} <br/>

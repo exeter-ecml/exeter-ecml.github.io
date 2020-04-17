@@ -35,9 +35,11 @@ functions.
 
 who_suggested: Tinkle Chugh
 
-status: suggested
+status: happened
 ---
 
 Project website: <https://www.ntu.edu.sg/home/asysong/mfo/home.htm>
 
 Benchmarks, code and latest papers: <http://www.bdsc.site/websites/MTO/index.html>
+
+A more recent paper: [Evolutionary Multitasking via Explicit Autoencoding](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8401802)

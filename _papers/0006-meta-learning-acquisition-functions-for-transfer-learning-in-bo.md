@@ -1,15 +1,17 @@
 ---
 layout: paper
 
-title: "Meta-Learning Acquisition Functions for Transfer Learning in Bayesian Optimization"
-
-citation: "
-Michael Volpp, Lukas P. Fröhlich, Kirsten Fischer, Andreas Doerr, Stefan Falkner, Frank Hutter, Christian Daniel,
-Meta-Learning Acquisition Functions for Transfer Learning in Bayesian Optimization,
-to appear in International Conference on Learning Representations (ICLR), 
-2020
-"
-
+title: Meta-Learning Acquisition Functions for Transfer Learning in Bayesian Optimization
+authors: 
+- Michael Volpp
+- Lukas P. Fröhlich
+- Kirsten Fischer
+- Andreas Doerr
+- Stefan Falkner
+- Frank Hutter
+- Christian Daniel
+venue: International Conference on Learning Representations (ICLR)
+year: 2020
 link: https://openreview.net/pdf?id=ryeYpJSKwr
 
 abstract: "
@@ -27,17 +29,19 @@ simulation-to-real transfer task as well as on several synthetic functions and
 on two hyperparameter search problems. The results show that our
 algorithm (1) automatically identifies structural properties of objective
 functions from available source tasks or simulations, (2) performs favourably
-in settings with both scarse and abundant source data, and (3) falls back to
+in settings with both scarce and abundant source data, and (3) falls back to
 the performance level of general AFs if no particular structure is present.
 "
 
 who_suggested: George De Ath
 
-status: suggested
+status: happened
 ---
 
-To appear at ICLR 2020 (spotlight talk).
+Author presentation: <https://slideslive.com/38926032>
 
 Reviews: <https://openreview.net/forum?id=ryeYpJSKwr>
 
-Code: <https://github.com/metabo-iclr2020/MetaBO>
+Code: <https://github.com/boschresearch/MetaBO>
+
+SVM response surfaces: <http://www.hylap.org/meta_data/svm/>

@@ -1,16 +1,17 @@
 ---
 layout: paper
 
-title: "Differentiation of Blackbox Combinatorial Solvers"
+title: Differentiation of Blackbox Combinatorial Solvers
+authors:
+- Marin Vlastelica
+- Anselm Paulus
+- Vít Musil
+- Georg Martius
+- Michal Rolínek
+venue: International Conference on Learning Representations (ICLR)
+year: 2020
 
-citation: "
-Marin Vlastelica, Anselm Paulus, Vít Musil, Georg Martius, Michal Rolínek
-Differentiation of Blackbox Combinatorial Solvers,
-arXiv:abs/1912.02175,
-2020
-"
-
-link: https://arxiv.org/abs/1912.02175
+link: https://openreview.net/pdf?id=BkevoJSYPB
 
 abstract: "
 Achieving fusion of deep learning with combinatorial algorithms promises 
@@ -32,7 +33,9 @@ who_suggested: George De Ath
 status: suggested
 ---
 
-Accepted to ICRL 2020. 
+Author presentation: <https://slideslive.com/38926011>
+
+Author's blog: <https://towardsdatascience.com/the-fusion-of-deep-learning-and-combinatorics-4d0112a74fa7>
 
 Reviews: <https://openreview.net/forum?id=BkevoJSYPB>
 

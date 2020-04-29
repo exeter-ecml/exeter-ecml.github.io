@@ -2,13 +2,12 @@
 layout: paper
 
 title: "The Implicit Regularization of Ordinary Least Squares Ensembles"
-
-citation: "
-D. LeJeune, H. Javadi, R. G. Baraniuk,
-The Implicit Regularization of Ordinary Least Squares Ensembles,
-to appear in The 23rd International Conference on Artificial Intelligence and Statistics (AISTATS),
-2020
-"
+authors:
+- Daniel LeJeune
+- Hamid Javadi
+- Richard Baraniuk
+venue: The 23rd International Conference on Artificial Intelligence and Statistics (AISTATS)
+year: 2020
 
 link: https://arxiv.org/abs/1910.04743
 

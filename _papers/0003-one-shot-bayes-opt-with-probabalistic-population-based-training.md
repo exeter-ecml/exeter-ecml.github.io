@@ -1,15 +1,13 @@
 ---
 layout: paper
 
-title: "One-Shot Bayes Opt with Probabilistic Population Based Training"
-
-citation: "
-Jack Parker-Holder, Vu Nguyen, Stephen Roberts
-One-Shot Bayes Opt with Probabilistic Population Based Training,
-arXiv:abs/2002.02518,
-2020
-"
-
+title: One-Shot Bayes Opt with Probabilistic Population Based Training
+authors:
+- Jack Parker-Holder
+- Vu Nguyen
+- Stephen Roberts
+venue: arXiv
+year: 2020
 link: https://arxiv.org/abs/2002.02518
 
 abstract: "

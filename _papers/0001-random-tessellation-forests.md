@@ -1,16 +1,15 @@
 ---
 layout: paper
 
-title: "Random tessellation forests"
-
-citation: "
-Shufei Ge, Shijia Wang, Yee Whye Teh, Liangliang Wang,Lloyd Elliott
-Random tessellation forests.
-In Advances in Neural Information Processing Systems 32, pages 9571–9581.
-Curran Associates, Inc.,
-2019
-"
-
+title: Random tessellation forests
+authors:
+- Shufei Ge
+- Shijia Wang
+- Yee Whye Teh
+- Liangliang Wang
+- Lloyd Elliott
+venue: Advances in Neural Information Processing Systems (NeurIPS)
+year: 2019
 link: http://papers.nips.cc/paper/9153-random-tessellation-forests
 
 abstract: "

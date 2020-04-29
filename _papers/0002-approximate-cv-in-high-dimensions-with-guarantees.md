@@ -1,15 +1,12 @@
 ---
 layout: paper
 
-title: "Approximate Cross-Validation in High Dimensions with Guarantees"
-
-citation: "
-William Stephenson, Tamara Broderick,
-Approximate Cross-Validation in High Dimensions with Guarantees,
-arXiv:abs/1905.13657,
-2019
-"
-
+title: Approximate Cross-Validation in High Dimensions with Guarantees
+authors:
+- William Stephenson
+- Tamara Broderick
+venue: "arXiv:abs/1905.13657"
+year: 2019
 link: https://arxiv.org/abs/1905.13657
 
 abstract: "

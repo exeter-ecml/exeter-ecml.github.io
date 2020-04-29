@@ -2,13 +2,12 @@
 layout: paper
 
 title: "BOHB: Robust and Efficient Hyperparameter Optimization at Scale"
-
-citation: "
-Stefan Falkner, Aaron Klein, Frank Hutter,
-BOHB: Robust and Efficient Hyperparameter Optimization at Scale
-Proceedings of the 35th International Conference on Machine Learning, 
-in PMLR 80:1437-1446, 2018
-"
+authors:
+- Stefan Falkner
+- Aaron Klein
+- Frank Hutter
+venue: Proceedings of the 35th International Conference on Machine Learning
+year: 2018
 
 link: http://proceedings.mlr.press/v80/falkner18a.html
 

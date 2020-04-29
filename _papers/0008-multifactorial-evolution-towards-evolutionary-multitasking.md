@@ -2,14 +2,12 @@
 layout: paper
 
 title: "Multifactorial Evolution: Toward Evolutionary Multitasking"
-
-citation: "
-Abhishek Gupta, Yew-Soon Ong, Liang Feng,
-Multifactorial Evolution: Toward Evolutionary Multitasking,
-in IEEE Transactions on Evolutionary Computation, 
-vol. 20, no. 3, pp. 343-357,
-2016
-"
+authors:
+- Abhishek Gupta
+- Yew-Soon Ong
+- Liang Feng
+venue: IEEE Transactions on Evolutionary Computation
+year: 2016
 
 link: https://ieeexplore.ieee.org/document/7161358
 

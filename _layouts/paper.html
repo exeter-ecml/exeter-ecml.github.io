@@ -3,7 +3,7 @@ layout: page
 ---
 <b>Author(s)</b>: 
 {% for author in page.authors %}
-<a href="https://scholar.google.co.uk/citations?view_op=search_authors&mauthors={{author}}&hl=en&oi=ao" target="_blank">{{author}}</a>{% if forloop.last == false %},{% endif %}
+<a href="https://scholar.google.co.uk/citations?view_op=search_authors&amp;mauthors={{author}}&amp;oi=ao" target="_blank">{{author}}</a>{% if forloop.last == false %},{% endif %}
 {% endfor %}<br/>
 <b>Venue</b>: {{page.venue}}<br/>
 <b>Year</b>: {{page.year}}<br/>

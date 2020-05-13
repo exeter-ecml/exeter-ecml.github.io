@@ -38,7 +38,7 @@ who_suggested: George De Ath
 status: happened
 ---
 
-Author presentation: <https://slideslive.com/38926032>
+Author presentation: <https://iclr.cc/virtual_2020/poster_ryeYpJSKwr.html>
 
 Reviews: <https://openreview.net/forum?id=ryeYpJSKwr>
 

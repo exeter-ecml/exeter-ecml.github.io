@@ -33,7 +33,7 @@ who_suggested: George De Ath
 status: suggested
 ---
 
-Author presentation: <https://slideslive.com/38926011>
+Author presentation: <https://iclr.cc/virtual_2020/poster_BkevoJSYPB.html>
 
 Author's blog: <https://towardsdatascience.com/the-fusion-of-deep-learning-and-combinatorics-4d0112a74fa7>
 

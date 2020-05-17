@@ -26,7 +26,7 @@ losses: β-VAE, learned image compression, and fast style transfer.
 
 who_suggested: Richard Everson
 
-status: suggested
+status: happened
 ---
 
 Author presentation: <https://iclr.cc/virtual_2020/poster_HyxY6JHKwr.html>

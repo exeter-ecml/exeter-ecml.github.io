@@ -34,3 +34,5 @@ who_suggested: George De Ath
 
 status: suggested
 ---
+
+PBT: <https://deepmind.com/blog/article/population-based-training-neural-networks>

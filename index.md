@@ -20,9 +20,9 @@ learning conferences, e.g.
 NeurIPS ([#1](https://nips.cc/Conferences/2019/Videos), 
          [#2](https://slideslive.com/neurips/)),
 ICLR ([#1](https://iclr.cc/Conferences/2019/Videos),
-     [#2](https://slideslive.com/icml/)),
+     [#2](https://slideslive.com/ircl/)),
 and ICML ([#1](https://icml.cc/Conferences/2019/Videos), 
-         [#2](https://slideslive.com/iclr)),
+         [#2](https://slideslive.com/icml)),
 it is very likely that a recording exists of the paper author's presentation.
 These recordings can be used as an alternative to the paper lead presenting an
 overview of the paper.

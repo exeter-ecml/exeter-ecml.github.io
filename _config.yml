@@ -36,13 +36,14 @@ url: ""
 
 # Build settings
 markdown: kramdown
+kramdown:
+   math_engine: mathjax
 
 plugins:
 #  - jekyll-feed
 #  - jekyll-paginate
   - jekyll-remote-theme
   - github-pages
-  - jekyll-katex
 
 # posts per page
 #paginate: 5

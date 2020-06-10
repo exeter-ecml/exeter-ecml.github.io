@@ -32,7 +32,9 @@ for all researchers regardless of their computational resources.
 
 who_suggested: George De Ath
 
-status: suggested
+status: happened
 ---
 
 PBT: <https://deepmind.com/blog/article/population-based-training-neural-networks>
+
+![PBT optimisation](https://lh3.googleusercontent.com/yHIyEg2JbIgLxEjz058uJG1GIQTrl8F4nqYSceHHht0B43uyMWdXdoY7IaLsk8avfaJ6TZJYl1mRHzge6GuTWzDOseJKQM0nZ4kjQQ=w1440-rw-v1)

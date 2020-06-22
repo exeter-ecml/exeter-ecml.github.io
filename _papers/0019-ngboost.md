@@ -13,7 +13,7 @@ authors:
 venue: Proceedings of the 37th International Conference on Machine Learning
 year: 2020
 
-link: https://arxiv.org/abs/2006.07990
+link: https://arxiv.org/abs/1910.03225
 
 abstract: "
 We present Natural Gradient Boosting (NGBoost), an algorithm for generic 

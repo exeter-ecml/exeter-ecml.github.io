@@ -8,14 +8,6 @@ sidebar_link: true
     <tbody>
     <tr><th nowrap>Suggester</th><th>Paper</th></tr>
     {% for paper in site.papers %}
-        {% if paper.status == "happened" %}
-            <tr>
-            <td nowrap><s>{{paper.who_suggested}}</s></td>
-            <td><s><a href="{{paper.url}}">{{paper.title}}</a></s></td>
-            </tr>
-        {% endif %}
-    {% endfor %}
-    {% for paper in site.papers %}
         {% if paper.status == "suggested" %}
             <tr>
             <td nowrap>{{paper.who_suggested}}</td>
@@ -26,3 +18,17 @@ sidebar_link: true
     </tbody>
 </table>
 
+# Previously Discussed Papers
+<table>
+    <tbody>
+    <tr><th nowrap>Suggester</th><th>Paper</th></tr>
+    {% for paper in site.papers %}
+        {% if paper.status == "happened" %}
+            <tr>
+            <td nowrap>{{paper.who_suggested}}</td>
+            <td><a href="{{paper.url}}">{{paper.title}}</a></td>
+            </tr>
+        {% endif %}
+    {% endfor %}
+    </tbody>
+</table>

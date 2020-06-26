@@ -36,6 +36,8 @@ who_suggested: George De Ath
 
 status: suggested
 ---
+Video review of the paper: <https://www.youtube.com/watch?v=LMb5tvW-UoQ>
+
 Blog: <https://astroautomata.com/paper/symbolic-neural-nets/>
 
 Github: <https://github.com/MilesCranmer/symbolic_deep_learning>

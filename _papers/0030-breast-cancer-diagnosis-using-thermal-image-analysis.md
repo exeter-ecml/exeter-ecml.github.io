@@ -43,3 +43,6 @@ who_suggested: Mariana Macedo
 
 status: suggested
 ---
+Mariana Macedo, Carmelo Bastos-Filho, and Ronaldo Menezes.
+**[Improved Multi-Objective Binary Fish School for Feature Selection](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS18/paper/viewPDFInterstitial/17672/16879)**,
+in Florida Artificial Intelligence Research Society Conference, 2018

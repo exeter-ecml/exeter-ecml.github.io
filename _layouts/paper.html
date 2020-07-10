@@ -7,10 +7,10 @@ layout: page
 {% endfor %}<br/>
 <b>Venue</b>: {{page.venue}}<br/>
 <b>Year</b>: {{page.year}}<br/>
+{% if page.link %}
 <br/>
 <b>Paper</b>: <a href="{{page.link}}" target="_blank">{{page.link}}</a>
-
+{% endif %}
 <h3>Abstract</h3>{{page.abstract | markdownify}}
-
 <h3>Additional information</h3>
 {{page.content}}

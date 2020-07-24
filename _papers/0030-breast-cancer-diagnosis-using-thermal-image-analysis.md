@@ -41,7 +41,7 @@ time, with a high potential to improve diagnostic accuracy.
 
 who_suggested: Mariana Macedo
 
-status: suggested
+status: happened
 ---
 Mariana Macedo, Carmelo Bastos-Filho, and Ronaldo Menezes.
 **[Improved Multi-Objective Binary Fish School for Feature Selection](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS18/paper/viewPDFInterstitial/17672/16879)**,

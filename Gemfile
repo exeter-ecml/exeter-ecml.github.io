@@ -7,13 +7,14 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-# gem "jekyll", "~> 4.0.0"
+gem "jekyll", "~> 3.9.0"
+
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "jekyll-theme-hydeout", "~> 3.4"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "github-pages", "~> 204"
+  gem "github-pages", "~> 207"
   gem "jekyll-feed", "~> 0.13"
 end
 

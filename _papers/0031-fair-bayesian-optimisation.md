@@ -38,7 +38,7 @@ hyperparameters leads to ML models that generalize well and are fair.
 
 who_suggested: Fabrizio Costa
 
-status: suggested
+status: happened
 ---
 Author presentation: <https://slideslive.com/38930648/fair-bayesian-optimization><br/>
 (We will watch this in the meeting)

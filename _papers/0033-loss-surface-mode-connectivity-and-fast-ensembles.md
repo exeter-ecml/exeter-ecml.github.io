@@ -29,7 +29,7 @@ CIFAR-100, and ImageNet.
 
 who_suggested: George De Ath
 
-status: suggested
+status: happened
 ---
 Blog <https://izmailovpavel.github.io/curves_blogpost/>
 

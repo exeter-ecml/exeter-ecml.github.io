@@ -5,9 +5,9 @@ title: Knowing The What But Not The Where in Bayesian Optimization
 authors:
 - Vu Nguyen
 - Michael A Osborne
-venue: arXiv
+venue: Proceedings of the 37th International Conference on Machine Learning
 year: 2020
-link: https://arxiv.org/abs/1905.02685
+link: https://proceedings.icml.cc/paper/2020/file/0abdc563a06105aee3c6136871c9f4d1-Paper.pdf
 
 abstract: "
 Bayesian optimization has demonstrated impressive success in finding the
@@ -31,4 +31,7 @@ who_suggested: George De Ath
 
 status: suggested
 ---
-Accepted to ICML 2020.
+- [Presentation](https://slideslive.com/38927867/)
+- [Slides](https://icml.cc/media/Slides/icml/2020/virtual(no-parent)-14-21-00UTC-6137-knowing_the_wha.pdf)
+- [Supplementary material](https://proceedings.icml.cc/paper/2020/file/0abdc563a06105aee3c6136871c9f4d1-Supplemental.pdf)
+- [Code](https://github.com/ntienvu/KnownOptimum_BO)

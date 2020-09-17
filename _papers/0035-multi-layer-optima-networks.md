@@ -34,7 +34,7 @@ both strategies. The experiments show promising results and demonstrate the abil
 
 who_suggested: Melike Karatas
 
-status: suggested
+status: happened
 ---
 If you can't access the paper at the link above,
 you can also get it from [arXiv](https://arxiv.org/abs/2004.13936).

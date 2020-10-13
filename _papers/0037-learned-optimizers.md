@@ -44,3 +44,9 @@ Twitter threads talking about the work:
 TaskSet dataset:
 [paper](https://arxiv.org/abs/2002.11887)
 [code](https://github.com/google-research/google-research/tree/master/task_set)
+
+[Evolutionary Strategies (ES) as an alternative to Reinforcement Learning](
+https://openai.com/blog/evolution-strategies/)
+
+[Understanding and correcting pathologies in the training of learned optimizers](
+http://proceedings.mlr.press/v97/metz19a.html)

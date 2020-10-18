@@ -41,4 +41,4 @@ Rejected from NeurIPS 2020, submitted to ICLR 2021.
 
 [ICLR Version](https://openreview.net/pdf?id=5mhViEOQxaV)
 
-[Supplementary material](https://openreview.net/attachment?id=5mhViEOQxaV&name=supplementary_material)
+[Code](https://openreview.net/attachment?id=5mhViEOQxaV&name=supplementary_material)

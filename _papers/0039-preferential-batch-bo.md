@@ -37,6 +37,6 @@ both with simulated functions and four real data sets.
 
 who_suggested: George De Ath
 
-status: suggested
+status: happened
 ---
 [Source code](https://github.com/EmuKit/emukit/tree/master/emukit/examples/preferential_batch_bayesian_optimization)

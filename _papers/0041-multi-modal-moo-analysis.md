@@ -28,6 +28,6 @@ multi-modal multi-objective algorithms using scalable test problems.
 
 who_suggested: Tinkle Chugh
 
-status: suggested
+status: happened
 ---
 If the IEEE link doesn't work for you, here is the [Researchgate copy of the paper](https://www.researchgate.net/profile/Yiming_Peng7/publication/339403877_Multi-modal_Multi-objective_Optimization_Problem_Analysis_and_Case_Studies/links/5ea8018e458515ca49f29ec0/Multi-modal-Multi-objective-Optimization-Problem-Analysis-and-Case-Studies.pdf).

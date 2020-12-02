@@ -4,7 +4,7 @@ layout: paper
 title: "On Empirical Comparisons of Optimizers for Deep Learning"
 authors:
 - Dami Choi
-- Christopher J. Shallue
+- Christopher Shallue
 - Zachary Nado
 - Jaehoon Lee
 - Chris J. Maddison

@@ -39,3 +39,4 @@ who_suggested: George De Ath
 
 status: suggested
 ---
+[Here](http://zna.do/epsilon) is an additional blog post on changing $$\epsilon$$.

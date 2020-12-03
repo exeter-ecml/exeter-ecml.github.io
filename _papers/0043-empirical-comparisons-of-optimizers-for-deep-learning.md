@@ -39,4 +39,11 @@ who_suggested: George De Ath
 
 status: suggested
 ---
-[Here](http://zna.do/epsilon) is an additional blog post on changing $$\epsilon$$.
+[Blog post on changing $$\epsilon$$.](http://zna.do/epsilon)
+
+[A large discussion about an earlier (rejected from ICLR) version of the paper.](https://openreview.net/forum?id=HygrAR4tPS)
+
+#### Recent related work:
+- Descending through a Crowded Valley -- Benchmarking Deep Learning Optimizers
+    - [Paper](https://arxiv.org/abs/2007.01547) 
+    - [Github](https://github.com/SirRob1997/Crowded-Valley---Results)

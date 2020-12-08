@@ -39,11 +39,13 @@ who_suggested: George De Ath
 
 status: suggested
 ---
+[A great introduction to gradient descent optimisation algorithms.](https://ruder.io/optimizing-gradient-descent)
+
+[Derivation of the *simplified* Nesterov Momentum.](https://arxiv.org/abs/1212.0901)
+
 [Blog post on changing $$\epsilon$$.](http://zna.do/epsilon)
 
 [A large discussion about an earlier (rejected from ICLR) version of the paper.](https://openreview.net/forum?id=HygrAR4tPS)
-
-[Derivation of the *simplified* Nesterov Momentum.](https://arxiv.org/abs/1212.0901)
 
 #### Recent related work:
 - Descending through a Crowded Valley -- Benchmarking Deep Learning Optimizers

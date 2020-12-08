@@ -43,6 +43,8 @@ status: suggested
 
 [A large discussion about an earlier (rejected from ICLR) version of the paper.](https://openreview.net/forum?id=HygrAR4tPS)
 
+[Derivation of the *simplified* Nesterov Momentum.](https://arxiv.org/abs/1212.0901)
+
 #### Recent related work:
 - Descending through a Crowded Valley -- Benchmarking Deep Learning Optimizers
     - [Paper](https://arxiv.org/abs/2007.01547) 

@@ -37,7 +37,7 @@ concerns about fairly benchmarking optimizers for neural network training.
 
 who_suggested: George De Ath
 
-status: suggested
+status: happened
 ---
 [A great introduction to gradient descent optimisation algorithms.](https://ruder.io/optimizing-gradient-descent)
 

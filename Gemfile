@@ -14,8 +14,8 @@ gem "jekyll-theme-hydeout", "~> 3.4"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "github-pages", "~> 207"
-  gem "jekyll-feed", "~> 0.13"
+  gem "github-pages", "~> 209"
+  gem "jekyll-feed", "~> 0.15"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

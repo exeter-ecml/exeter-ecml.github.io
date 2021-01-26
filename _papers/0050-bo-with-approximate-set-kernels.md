@@ -11,7 +11,7 @@ authors:
 venue: arXiv
 year: 2020
 
-link: https://arxiv.org/abs/2012.15471
+link: https://arxiv.org/abs/1905.09780
 
 abstract: "
 We propose a practical Bayesian optimization method over sets, to minimize a

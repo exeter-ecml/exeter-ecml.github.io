@@ -14,7 +14,7 @@ gem "jekyll-theme-hydeout", "~> 4.1"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "github-pages", "~> 210"
+  gem "github-pages", "~> 211"
   gem "jekyll-feed", "~> 0.15"
 end
 

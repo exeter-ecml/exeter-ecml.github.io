@@ -10,7 +10,7 @@ authors:
 venue: Advances In Neural Information Processing Systems.
 year: 2020
 
-link: https://arxiv.org/abs/2002.03704
+link: https://papers.nips.cc/paper/2020/hash/2dfe1946b3003933b7f8ddd71f24dbb1-Abstract.html
 
 abstract: "
 We challenge the longstanding assumption that the mean-field approximation for
@@ -34,3 +34,5 @@ status: suggested
 [Blog post](https://oatml.cs.ox.ac.uk/blog/2020/11/29/liberty_or_depth.html)
 
 [Twitter thread](https://twitter.com/seb_far/status/1333821891933589505)
+
+[40min presentation](https://www.youtube.com/watch?v=p2vOZg1xoE0)

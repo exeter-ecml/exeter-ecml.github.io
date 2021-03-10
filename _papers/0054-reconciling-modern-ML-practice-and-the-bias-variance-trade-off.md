@@ -41,6 +41,7 @@ who_suggested: Richard Everson
 
 status: happened
 ---
+- [Talk by the author](http://www.ipam.ucla.edu/abstract/?tid=15552)
 - [PDF](https://www.pnas.org/content/116/32/15849.full.pdf)
 - [A nice blog post on Neural Network overfitting](https://lilianweng.github.io/lil-log/2019/03/14/are-deep-neural-networks-dramatically-overfitted.html)
 - [Yannic Kilcher video explainer](https://www.youtube.com/watch?v=ZAW9EyNo2fw)

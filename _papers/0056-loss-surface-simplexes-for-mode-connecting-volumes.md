@@ -31,4 +31,4 @@ who_suggested: Melike Karatas
 
 status: suggested
 ---
-- [Github](hhttps://github.com/g-benton/loss-surface-simplexes)
+- [Github](https://github.com/g-benton/loss-surface-simplexes)

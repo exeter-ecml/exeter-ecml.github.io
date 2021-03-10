@@ -39,7 +39,7 @@ theory and the practice of machine learning.
 
 who_suggested: Richard Everson
 
-status: suggested
+status: happened
 ---
 - [PDF](https://www.pnas.org/content/116/32/15849.full.pdf)
 - [A nice blog post on Neural Network overfitting](https://lilianweng.github.io/lil-log/2019/03/14/are-deep-neural-networks-dramatically-overfitted.html)

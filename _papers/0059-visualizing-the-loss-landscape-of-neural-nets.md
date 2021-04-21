@@ -32,7 +32,7 @@ and how training parameters affect the shape of minimizers.
 
 who_suggested: Melike Karatas
 
-status: suggested
+status: happened
 ---
 - [Code](https://github.com/tomgoldstein/loss-landscape)
 - Quick overviews of the paper: 

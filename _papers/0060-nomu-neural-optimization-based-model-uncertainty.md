@@ -34,6 +34,6 @@ NOMU outperforms all other benchmarks.
 
 who_suggested: Richard Everson
 
-status: suggested
+status: happened
 ---
 - [Code](https://github.com/marketdesignresearch/NOMU)

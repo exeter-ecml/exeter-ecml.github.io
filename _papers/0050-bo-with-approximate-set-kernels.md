@@ -32,6 +32,6 @@ demonstrate that our method outperforms other methods.
 
 who_suggested: Tinkle Chugh
 
-status: suggested
+status: happened
 ---
 [Code](https://github.com/jungtaekkim/bayeso)

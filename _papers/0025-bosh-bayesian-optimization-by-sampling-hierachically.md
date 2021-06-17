@@ -6,10 +6,10 @@ authors:
 - Henry B. Moss
 - David S. Leslie
 - Paul Rayson
-venue: arXiv
+venue: ICML Workshop on Real World Experiment Design and Active Learning
 year: 2020
 
-link: https://arxiv.org/abs/2007.00939
+link: https://realworldml.github.io/files/cr/4_BOSH_ICML_Workshop_FINAL.pdf
 
 abstract: "
 Deployments of Bayesian Optimization (BO) for functions with stochastic

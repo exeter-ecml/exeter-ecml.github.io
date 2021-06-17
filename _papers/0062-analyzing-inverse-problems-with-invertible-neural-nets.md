@@ -40,7 +40,7 @@ unrecoverable parameters.
 "
 
 who_suggested: Tim Dodwell
-status: suggested
+status: happened
 ---
 - [Blog post](https://hci.iwr.uni-heidelberg.de/vislearn/inverse-problems-invertible-neural-networks/)
 - [Code](https://github.com/VLL-HD/analyzing_inverse_problems)

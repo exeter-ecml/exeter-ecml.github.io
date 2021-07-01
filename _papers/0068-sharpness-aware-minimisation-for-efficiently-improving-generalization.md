@@ -1,0 +1,41 @@
+---
+layout: paper
+
+title: "Sharpness-aware Minimization for Efficiently Improving Generalization"
+authors:
+- Pierre Foret
+- Ariel Kleiner
+- Hossein Mobahi
+- Behnam Neyshabur
+
+venue: ICLR
+year: 2021
+
+link: https://openreview.net/pdf?id=6Tm1mposlrM
+
+abstract: "
+Abstract: In today's heavily overparameterized models, the value of the
+training loss provides few guarantees on model generalization ability. Indeed,
+optimizing only the training loss value, as is commonly done, can easily lead
+to suboptimal model quality. Motivated by the connection between geometry of
+the loss landscape and generalization ---including a generalization bound that
+we prove here ---we introduce a novel, effective procedure for instead
+simultaneously minimizing loss value and loss sharpness.  In particular, our
+procedure, Sharpness-Aware Minimization (SAM), seeks parameters that lie in
+neighborhoods having uniformly low loss; this formulation results in a min-max
+optimization problem on which gradient descent can be performed efficiently. We
+present empirical results showing that SAM improves model generalization across
+a variety of benchmark datasets (e.g., CIFAR-{10, 100}, ImageNet, finetuning
+tasks) and models, yielding novel state-of-the-art performance for several.
+Additionally, we find that SAM natively provides robustness to label noise on
+par with that provided by state-of-the-art procedures that specifically target
+learning with noisy labels.
+"
+
+who_suggested: Richard Everson
+status: suggested
+---
+- [Reviews](https://openreview.net/forum?id=6Tm1mposlrM)
+- [13min ICLR spotlight video](https://slideslive.com/38953874/sam-sharpnessaware-minimization-for-efficiently-improving-generalization)
+- [Github (tensorflow)](https://github.com/google-research/sam)
+- [Github (pytorch)](https://github.com/davda54/sam)

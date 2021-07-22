@@ -7,10 +7,10 @@ authors:
 - Ke Alexander Wang
 - Stefano Ermon
 
-venue: arXiv
+venue: ICML
 year: 2021
 
-link: https://arxiv.org/abs/2104.09460
+link: http://proceedings.mlr.press/v139/neiswanger21a.html
 
 abstract: "
 In many real world problems, we want to infer some property of an expensive
@@ -37,3 +37,7 @@ search methods and optimal sensor placement using Gaussian processes.
 who_suggested: Tinkle Chugh
 status: happened
 ---
+- [Project website](https://willieneis.github.io/bax-website/)
+- [Code](https://github.com/willieneis/bayesian-algorithm-execution)
+- [ICML presentation](https://icml.cc/virtual/2021/spotlight/10676)
+- [Twitter thread](https://twitter.com/willieneis/status/1412818015230464001)

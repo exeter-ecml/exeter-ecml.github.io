@@ -34,7 +34,7 @@ morphologies, and superconducting materials.
 "
 
 who_suggested: George De Ath
-status: suggested
+status: happened
 ---
 - [Website (including video etc.)](https://sites.google.com/berkeley.edu/coms)
 - [Github](https://github.com/brandontrabucco/design-baselines)

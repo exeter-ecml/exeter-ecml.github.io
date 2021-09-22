@@ -31,7 +31,7 @@ possible future directions of this exciting foundational field of ML.
 "
 
 who_suggested: Andy Corbett
-status: suggested
+status: happened
 ---
 - [arXiv version](https://arxiv.org/abs/2003.07631)
 - [Project website](http://www.heatmapping.org/)

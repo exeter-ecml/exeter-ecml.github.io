@@ -32,7 +32,7 @@ not least in terms of expressiveness, versatility, and scalability.
 
 who_suggested: George De Ath
 
-status: suggested
+status: happened
 ---
 - [Project website](https://tiao.io/publication/bore-2/)
 - [github](https://github.com/ltiao/bore)

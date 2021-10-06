@@ -18,6 +18,6 @@ One area where active learning plays an important role is black-box optimization
 "
 
 who_suggested: Tinkle Chugh
-status: suggested
+status: happened
 ---
 - [14 min presentation](https://www.youtube.com/watch?v=575zxhiCtus)

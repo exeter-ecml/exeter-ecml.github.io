@@ -1,0 +1,38 @@
+---
+layout: paper
+
+title: "Random Hypervolume Scalarizations for Provable Multi-Objective Black Box Optimization"
+authors:
+- Richard Zhang
+- Daniel Golovin
+venue: ICML
+year: 2020
+
+link: https://proceedings.mlr.press/v119/zhang20i.html
+
+abstract: "
+Single-objective black box optimization (also known as zeroth-order
+optimization) is the process of minimizing a scalar objective $$f(x)$$, given
+evaluations at adaptively chosen inputs x. In this paper, we consider
+multi-objective optimization, where $$f(x)$$ outputs a vector of possibly
+competing objectives and the goal is to converge to the Pareto frontier.
+Quantitatively, we wish to maximize the standard *hypervolume indicator* metric, which measures the dominated hypervolume of the entire set of chosen
+inputs. In this paper, we introduce a novel scalarization function, which we
+term the *hypervolume scalarization*, and show that drawing random
+scalarizations from an appropriately chosen distribution can be used to
+efficiently approximate the *hypervolume indicator* metric. We utilize this
+connection to show that Bayesian optimization with our scalarization via
+common acquisition functions, such as Thompson Sampling or Upper Confidence
+Bound, provably converges to the whole Pareto frontier by deriving tight
+*hypervolume regret* bounds on the order of $$O(\\sqrt{T})$$. Furthermore, we
+highlight the general utility of our scalarization framework by showing that
+any provably convergent single-objective optimization process can be converted
+to a multi-objective optimization process with provable convergence
+guarantees. 
+"
+
+who_suggested: George De Ath
+status: suggested
+---
+- [15min Talk](https://slideslive.com/38928313/random-hypervolume-scalarizations-for-provable-multiobjective-black-box-optimization)
+

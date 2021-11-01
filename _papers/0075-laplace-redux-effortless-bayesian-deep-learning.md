@@ -39,3 +39,5 @@ who_suggested: George De Ath
 status: suggested
 ---
 - [github](https://github.com/AlexImmer/Laplace)
+- [11min presentation](https://www.youtube.com/watch?v=nMONiYLWWOU)
+- [twitter posts](https://twitter.com/a1mmer/status/1454057888759037955)

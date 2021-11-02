@@ -41,3 +41,4 @@ status: suggested
 - [github](https://github.com/AlexImmer/Laplace)
 - [11min presentation](https://www.youtube.com/watch?v=nMONiYLWWOU)
 - [twitter posts](https://twitter.com/a1mmer/status/1454057888759037955)
+- [blog](https://agustinus.kristia.de/techblog/2021/10/27/laplace/)

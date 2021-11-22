@@ -8,10 +8,10 @@ authors:
 - Tackgeun You
 - Saehoon Kim
 - Seungjin Choi
-venue: arXiv
-year: 2020
+venue: ECML PKDD
+year: 2021
 
-link: https://arxiv.org/abs/1905.09780
+link: https://link.springer.com/article/10.1007/s10994-021-05949-0
 
 abstract: "
 We propose a practical Bayesian optimization method over sets, to minimize a
@@ -20,14 +20,14 @@ permutation-invariant, traditional Gaussian process-based Bayesian
 optimization strategies which assume vector inputs can fall short. To address
 this, we develop a Bayesian optimization method with *set kernel* that is used
 to build surrogate functions. This kernel accumulates similarity over set
-elements to enforce permutation-invariance, but this comes at a greater 
-computational cost. To reduce this burden, we propose two key components: 
+elements to enforce permutation-invariance, but this comes at a greater
+computational cost. To reduce this burden, we propose two key components:
 (i) a more efficient approximate set kernel which is still positive-definite
 and is an unbiased estimator of the true set kernel with upper-bounded variance
 in terms of the number of subsamples, (ii) a constrained acquisition function
 optimization over sets, which uses symmetry of the feasible region that defines
 a set input. Finally, we present several numerical experiments which
-demonstrate that our method outperforms other methods. 
+demonstrate that our method outperforms other methods.
 "
 
 who_suggested: Tinkle Chugh

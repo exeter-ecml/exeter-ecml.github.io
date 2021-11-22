@@ -9,10 +9,10 @@ authors:
 - Runa Eschenhagen
 - Matthias Bauer
 - Philipp Hennig
-venue: arXiv
+venue: NeurIPS
 year: 2021
 
-link: https://arxiv.org/abs/2106.14806
+link: https://openreview.net/forum?id=gDcaUj4Myhn
 
 abstract: "
 Bayesian formulations of deep learning have been shown to have compelling

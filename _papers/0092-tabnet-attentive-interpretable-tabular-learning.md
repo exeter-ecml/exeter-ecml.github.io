@@ -24,7 +24,7 @@ significantly improving performance when unlabeled data is abundant.
 "
 
 who_suggested: Richard Everson
-status: suggested
+status: happened
 ---
 - [AAAI 2021 talk (20min)](https://slideslive.com/38947902/)
 - [pytorch implementation](https://github.com/dreamquark-ai/tabnet)

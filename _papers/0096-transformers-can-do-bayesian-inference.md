@@ -38,7 +38,7 @@ few-shot image classification, demonstrating the generality of PFNs.
 "
 
 who_suggested: George De Ath
-status: suggested
+status: happened
 ---
 - [github](https://github.com/automl/TransformersCanDoBayesianInference)
 - [huggingface](https://huggingface.co/spaces/samuelinferences/transformers-can-do-bayesian-inference)

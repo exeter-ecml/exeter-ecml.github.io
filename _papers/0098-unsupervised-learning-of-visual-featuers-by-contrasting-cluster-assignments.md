@@ -41,11 +41,13 @@ pretraining on all the considered transfer tasks.
 who_suggested: Abhra Chaudhuri
 status: suggested
 ---
+- [NeurIPS talk (3min)](https://slideslive.com/38936001/unsupervised-learning-of-visual-features-by-contrasting-cluster-assignments)
+- [Longer talk (45min)](https://www.youtube.com/watch?v=zffVe7TTx2I)
 - [Short blog post](https://ai.facebook.com/blog/high-performance-self-supervised-image-classification-with-contrastive-clustering/)
 - [Long blog post](https://wandb.ai/authors/swav-tf/reports/Unsupervised-visual-representation-learning-with-SwAV--VmlldzoyMjg3Mzg)
 - [Video chat with main author (30min)](https://www.youtube.com/watch?v=7QmsTleiRLs)
 - [Video about the loss function (15min)](https://www.youtube.com/watch?v=M_DgS3XGeJc)
 - [ML Street Talk video (1hr30min)](https://www.youtube.com/watch?v=uqJ2hbDGHjY)
-- [NeurIPS talk (3min)](https://slideslive.com/38936001/unsupervised-learning-of-visual-features-by-contrasting-cluster-assignments)
 - [github (pytorch)](https://github.com/facebookresearch/swav)
 - [github (tensorflow)](https://github.com/ayulockin/SwAV-TF)
+

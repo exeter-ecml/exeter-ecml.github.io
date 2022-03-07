@@ -16,7 +16,7 @@ year: 2020
 link: https://proceedings.neurips.cc/paper/2020/hash/70feb62b69f16e0238f741fab228fec2-Abstract.html
 
 abstract: "
-Unsupervised image representations have significantly reduced the gap with 
+Unsupervised image representations have significantly reduced the gap with
 supervised pretraining, notably with the recent achievements of contrastive
 learning methods. These contrastive methods typically work online and rely on a
 large number of explicit pairwise feature comparisons, which is computationally
@@ -50,4 +50,3 @@ status: suggested
 - [ML Street Talk video (1hr30min)](https://www.youtube.com/watch?v=uqJ2hbDGHjY)
 - [github (pytorch)](https://github.com/facebookresearch/swav)
 - [github (tensorflow)](https://github.com/ayulockin/SwAV-TF)
-

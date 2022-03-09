@@ -39,7 +39,7 @@ pretraining on all the considered transfer tasks.
 "
 
 who_suggested: Abhra Chaudhuri
-status: suggested
+status: happened
 ---
 - [NeurIPS talk (3min)](https://slideslive.com/38936001/unsupervised-learning-of-visual-features-by-contrasting-cluster-assignments)
 - [Longer talk (45min)](https://www.youtube.com/watch?v=zffVe7TTx2I)

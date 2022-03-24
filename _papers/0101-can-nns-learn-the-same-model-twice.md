@@ -35,7 +35,7 @@ theory of double descent phenomena in convex models.
 "
 
 who_suggested: George De Ath
-status: suggested
+status: happened
 ---
 - [github](https://github.com/somepago/dbViz)
 - [twitter thread](https://mobile.twitter.com/gowthami_s/status/1503931615734812676)

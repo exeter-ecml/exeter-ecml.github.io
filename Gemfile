@@ -28,5 +28,5 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 gem "activesupport", ">= 4.1.11"
-gem "nokogiri", ">= 1.11.0.rc4"
+gem "nokogiri", ">= 1.13.4"
 # gem "jekyll-paginate"

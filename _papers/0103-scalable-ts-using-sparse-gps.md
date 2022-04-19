@@ -33,6 +33,6 @@ real-world high-throughput molecular design task.
 "
 
 who_suggested: Tinkle Chugh
-status: suggested
+status: happened
 ---
 - [NeurIPS talk (14min)](https://papertalk.org/papertalks/36808)

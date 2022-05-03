@@ -34,6 +34,6 @@ the method - something that existing time-parallel methods do not do.
 "
 
 who_suggested: Andy Corbett
-status: suggested
+status: happened
 ---
 [GitHub](https://github.com/kpentland/GParareal)

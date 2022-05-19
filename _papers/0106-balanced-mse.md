@@ -32,7 +32,7 @@ benchmarks demonstrate the effectiveness of Balanced MSE.
 "
 
 who_suggested: George De Ath
-status: suggested
+status: happened
 ---
 - [blogpost](https://copyfuture.com/blogs-details/202204291348298036)
 - [GitHub](https://github.com/jiawei-ren/BalancedMSE)

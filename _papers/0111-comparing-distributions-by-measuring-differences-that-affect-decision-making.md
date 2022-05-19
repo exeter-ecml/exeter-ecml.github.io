@@ -4,11 +4,11 @@ layout: paper
 title: "Comparing Distributions by Measuring Differences that Affect Decision Making"
 authors:
 - Shengjia Zhao
--Abhishek Sinha
--Yutong He
--Aidan Perreault
--Jiaming Song
--Stefano Ermon
+- Abhishek Sinha
+- Yutong He
+- Aidan Perreault
+- Jiaming Song
+- Stefano Ermon
 
 venue: "ICLR"
 year: 2022

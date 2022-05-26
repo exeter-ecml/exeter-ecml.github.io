@@ -39,7 +39,7 @@ selected based on preferences that are only available at run time.
 "
 
 who_suggested: George De Ath
-status: suggested
+status: happened
 ---
 - [Summary post](https://avivnavon.github.io/ParetoHN/)
 - [5min ICLR Presentation](https://slideslive.com/38953840/learning-the-pareto-front-with-hypernetworks)

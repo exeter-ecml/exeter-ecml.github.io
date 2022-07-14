@@ -15,7 +15,7 @@ authors:
 - Simon Kornblith
 - Ludwig Schmidt
 
-venue: "arXiv"
+venue: "ICML 2022"
 year: 2022
 
 link: https://arxiv.org/abs/2203.05482
@@ -46,3 +46,5 @@ and validate this relation empirically.
 who_suggested: George De Ath
 status: suggested
 ---
+- [GitHub](https://github.com/mlfoundations/model-soups)
+- [twitter thread](https://twitter.com/mitchnw/status/1539992200943005696)

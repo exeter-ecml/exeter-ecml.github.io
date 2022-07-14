@@ -1,0 +1,32 @@
+---
+layout: paper
+
+title: "(Certified!!) Adversarial Robustness for Free!"
+authors:
+- Nicholas Carlini
+- Florian Tramer
+- Krishnamurthy Dvijotham
+- J. Zico Kolter
+
+venue: "arXiv"
+year: 2022
+
+link: https://arxiv.org/abs/2206.10550
+
+abstract: "
+In this paper we show how to achieve state-of-the-art certified adversarial
+robustness to 2-norm bounded perturbations by relying exclusively on
+off-the-shelf pretrained models. To do so, we instantiate the denoised
+smoothing approach of Salman et al. by combining a pretrained denoising
+diffusion probabilistic model and a standard high-accuracy classifier. This
+allows us to certify 71% accuracy on ImageNet under adversarial perturbations
+constrained to be within a 2-norm of 0.5, an improvement of 14 percentage
+points over the prior certified SoTA using any approach, or an improvement of
+30 percentage points over denoised smoothing. We obtain these results using
+only pretrained diffusion models and image classifiers, without requiring any
+fine tuning or retraining of model parameters.
+"
+
+who_suggested: George De Ath
+status: suggested
+---

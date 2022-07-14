@@ -11,7 +11,7 @@ authors:
 venue: "arXiv"
 year: 2022
 
-link: https://arxiv.org/abs/2206.10550
+link: https://arxiv.org/abs/2206.03992
 
 abstract: "
 Gaussian processes provide an elegant framework for specifying prior and

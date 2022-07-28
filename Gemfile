@@ -29,4 +29,4 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 gem "activesupport", ">= 4.1.11"
 gem "nokogiri", ">= 1.13.4"
-# gem "jekyll-paginate"
+gem "webrick"

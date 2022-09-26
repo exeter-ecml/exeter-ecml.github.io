@@ -11,7 +11,7 @@ authors:
 - Yann LeCun
 - Andrew Gordon Wilson
 
-venue: "ICML "
+venue: "ICML"
 year: 2022
 
 link: https://openreview.net/forum?id=ao30zaT3YL

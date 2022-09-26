@@ -36,3 +36,4 @@ who_suggested: George De Ath
 status: suggested
 ---
 - [GitHub](https://github.com/LeoGrin/tabular-benchmark)
+- [Twitter thread](https://twitter.com/GaelVaroquaux/status/1549422403889106944)

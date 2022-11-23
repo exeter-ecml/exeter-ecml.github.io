@@ -32,9 +32,7 @@ updates. Meta-trained with approximately four thousand TPU-months of compute on
 a wide variety of optimization tasks, our optimizer not only exhibits
 compelling performance, but optimizes in interesting and unexpected ways. It
 requires no hyperparameter tuning, instead automatically adapting to the
-specifics of the problem being optimized. We open source our learned optimizer,
-meta-training code, the associated train and test data, and an extensive
-optimizer benchmark suite with baselines at this http URL.
+specifics of the problem being optimized.
 "
 
 who_suggested: George De Ath

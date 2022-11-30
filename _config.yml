@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -23,25 +23,25 @@ title: ECML
 email: g.de.ath@exeter.ac.uk
 # >-  ::: this means to ignore newlines until "baseurl:"
 
-description: >- 
-   Evolutionary Computation and Machine Learning reading group
+description: >-
+  Evolutionary Computation and Machine Learning reading group
 
 # the subpath of your site, e.g. /blog
-baseurl: "" 
+baseurl: ""
 
 # the base hostname & protocol for your site, e.g. http://example.com
 url: ""
 #twitter_username: jekyllrb
-github_username:  exeter-ecml
+github_username: exeter-ecml
 
 # Build settings
 markdown: kramdown
 kramdown:
-   math_engine: mathjax
+  math_engine: mathjax
 
 plugins:
-#  - jekyll-feed
-#  - jekyll-paginate
+  #  - jekyll-feed
+  #  - jekyll-paginate
   - jekyll-remote-theme
   - github-pages
 
@@ -54,9 +54,9 @@ sidebar_home_link: true
 
 # collections - so we can iterate over pages
 collections:
-    papers:
-        output: true
-        permalink: /:collection/:name
-    meetings:
-        output: true
-        permalink: /:collection/:name
+  papers:
+    output: true
+    permalink: /:collection/:name
+  meetings:
+    output: true
+    permalink: /:collection/:name

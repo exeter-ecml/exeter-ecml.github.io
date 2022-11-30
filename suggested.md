@@ -18,7 +18,7 @@ sidebar_link: true
     </tbody>
 </table>
 
-# Previously Discussed Papers
+# Previously-discussed Papers
 <table>
     <tbody>
     <tr><th nowrap>Suggester</th><th>Paper</th></tr>

@@ -36,7 +36,7 @@ specifics of the problem being optimized.
 "
 
 who_suggested: George De Ath
-status: suggested
+status: happened
 ---
 - [GitHub](https://github.com/google/learned_optimization/tree/main/learned_optimization/research/general_lopt)
 - [Twitter thread](https://twitter.com/Luke_Metz/status/1593437918349365248)

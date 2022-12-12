@@ -8,10 +8,10 @@ authors:
 - Javier González
 - Paul Rayson
 
-venue: arXiv
+venue: JMRL
 year: 2021
 
-link: https://arxiv.org/abs/2102.03324
+link: https://www.jmlr.org/papers/v22/21-0120.html
 
 abstract: "
 This paper describes a general-purpose extension of max-value entropy search, a
@@ -34,10 +34,11 @@ Moreover, our principled derivation of GIBBON yields a natural interpretation
 of a popular batch BO heuristic based on determinantal point processes.
 Finally, we analyse GIBBON across a suite of synthetic benchmark tasks, a
 molecular search loop, and as part of a challenging batch multi-fidelity
-framework for problems with controllable experimental noise. 
+framework for problems with controllable experimental noise.
 "
 
 who_suggested: George De Ath
 
 status: suggested
 ---
+- [BoTorch Example](https://botorch.org/v/0.6.2/tutorials/GIBBON_for_efficient_batch_entropy_search)

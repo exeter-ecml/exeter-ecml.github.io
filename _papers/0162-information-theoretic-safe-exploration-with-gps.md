@@ -1,0 +1,40 @@
+---
+layout: paper
+
+title: "Information-Theoretic Safe Exploration with Gaussian Processes"
+
+authors:
+- Alessandro Giacomo Bottero
+- Carlos E. Luis
+- Julia Vinogradska
+- Felix Berkenkamp
+- Jan Peters
+
+venue: "NeurIPS"
+
+year: 2022
+
+link: https://openreview.net/forum?id=cV03Zw0V-3J
+
+abstract: "
+We consider a sequential decision making task where we are not allowed to
+evaluate parameters that violate an a priori unknown (safety) constraint. A
+common approach is to place a Gaussian process prior on the unknown constraint
+and allow evaluations only in regions that are safe with high probability. Most
+current methods rely on a discretization of the domain and cannot be directly
+extended to the continuous case. Moreover, the way in which they exploit
+regularity assumptions about the constraint introduces an additional critical
+hyperparameter. In this paper, we propose an information-theoretic safe
+exploration criterion that directly exploits the GP posterior to identify the
+most informative safe parameters to evaluate. Our approach is naturally
+applicable to continuous domains and does not require additional
+hyperparameters. We theoretically analyze the method and show that we do not
+violate the safety constraint with high probability and that we explore by
+learning about the constraint up to arbitrary precision. Empirical evaluations
+demonstrate improved data-efficiency and scalability.
+"
+
+who_suggested: George De Ath
+status: suggested
+---
+- [GitHub](https://github.com/boschresearch/information-theoretic-safe-exploration)

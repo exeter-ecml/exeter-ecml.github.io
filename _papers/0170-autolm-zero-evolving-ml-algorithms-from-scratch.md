@@ -40,3 +40,4 @@ field.
 who_suggested: Richard Everson
 status: suggested
 ---
+- [GitHub](https://github.com/google-research/google-research/tree/master/automl_zero)

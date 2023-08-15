@@ -29,3 +29,5 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 gem "nokogiri", ">= 1.13.7"
 gem "webrick"
+
+gem "faraday-retry", "~> 2.2"

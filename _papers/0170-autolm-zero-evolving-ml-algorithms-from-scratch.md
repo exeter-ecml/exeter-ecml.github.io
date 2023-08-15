@@ -38,6 +38,6 @@ field.
 "
 
 who_suggested: Richard Everson
-status: suggested
+status: happened
 ---
 - [GitHub](https://github.com/google-research/google-research/tree/master/automl_zero)

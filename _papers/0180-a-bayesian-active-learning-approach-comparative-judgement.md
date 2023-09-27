@@ -22,5 +22,5 @@ We propose a novel Bayesian approach to CJ (BCJ) for determining the ranks of co
 "
 
 who_suggested: Tinkle Chugh
-status: suggested
+status: happened
 ---

@@ -7,14 +7,14 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.9.5"
+gem "jekyll", "~> 3.10.0"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "jekyll-theme-hydeout", "~> 4.2"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "github-pages", "~> 231"
+  gem "github-pages", "~> 232"
   gem "jekyll-feed", "~> 0.17.0"
 end
 
@@ -26,8 +26,7 @@ install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
 end
 
 # Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
-gem "nokogiri", ">= 1.13.7"
-gem "webrick"
-
-gem "faraday-retry", "~> 2.2"
+gem "wdm", "~> 0.2.0", :install_if => Gem.win_platform?
+gem 'nokogiri', '~> 1.16', '>= 1.16.7'
+gem 'webrick', '~> 1.8', '>= 1.8.2'
+gem 'faraday-retry', '~> 2.2', '>= 2.2.1'

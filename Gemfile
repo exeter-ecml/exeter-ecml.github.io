@@ -27,6 +27,6 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.2.0", :install_if => Gem.win_platform?
-gem 'nokogiri', '~> 1.17'
+gem 'nokogiri', '~> 1.18'
 gem 'webrick', '~> 1.9'
 gem 'faraday-retry', '~> 2.2', '>= 2.2.1'

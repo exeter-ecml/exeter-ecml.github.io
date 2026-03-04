@@ -37,6 +37,7 @@ github_username: exeter-ecml
 # Build settings
 markdown: kramdown
 kramdown:
+  # mathjax engine emits <script type="math/tex"> tags, rendered by KaTeX in custom-foot.html
   math_engine: mathjax
 
 theme: jekyll-theme-hydeout
@@ -51,12 +52,6 @@ exclude:
 
 plugins:
   - jekyll-feed
-  #  - jekyll-paginate
-
-# posts per page
-#paginate: 5
-#paginate_path: '/posts/page:num'
-#sort_field: 'paper_no'
 
 sidebar_home_link: true
 

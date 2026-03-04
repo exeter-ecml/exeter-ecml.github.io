@@ -39,11 +39,19 @@ markdown: kramdown
 kramdown:
   math_engine: mathjax
 
+theme: jekyll-theme-hydeout
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - package.json
+  - .stylelintrc.json
+  - vendor
+
 plugins:
-  #  - jekyll-feed
+  - jekyll-feed
   #  - jekyll-paginate
-  - jekyll-remote-theme
-  - github-pages
 
 # posts per page
 #paginate: 5

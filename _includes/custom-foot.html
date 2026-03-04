@@ -1,18 +1,16 @@
-<!-- Optional footer content -->
-<script type="text/javascript">
-$("script[type='math/tex']").replaceWith(
-  function(){
-    var tex = $(this).text();
-    return "<span class=\"inline-equation\">" + 
-           katex.renderToString(tex) +
-           "</span>";
+<!-- Render KaTeX math blocks inserted by kramdown -->
+<script>
+document.querySelectorAll("script[type='math/tex']").forEach(function(el) {
+  var span = document.createElement("span");
+  span.className = "inline-equation";
+  span.innerHTML = katex.renderToString(el.textContent);
+  el.parentNode.replaceChild(span, el);
 });
 
-$("script[type='math/tex; mode=display']").replaceWith(
-  function(){
-    var tex = $(this).text();
-    return "<div class=\"equation\">" + 
-           katex.renderToString("\\displaystyle "+tex) +
-           "</div>";
+document.querySelectorAll("script[type='math/tex; mode=display']").forEach(function(el) {
+  var div = document.createElement("div");
+  div.className = "equation";
+  div.innerHTML = katex.renderToString("\\displaystyle " + el.textContent);
+  el.parentNode.replaceChild(div, el);
 });
 </script>

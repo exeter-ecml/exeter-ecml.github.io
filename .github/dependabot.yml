@@ -11,3 +11,15 @@ updates:
       interval: "daily"
     assignees:
       - "georgedeath"
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    assignees:
+      - "georgedeath"
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    assignees:
+      - "georgedeath"

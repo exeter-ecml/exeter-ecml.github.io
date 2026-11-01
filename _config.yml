@@ -39,6 +39,18 @@ markdown: kramdown
 kramdown:
   # mathjax engine emits <script type="math/tex"> tags, rendered by KaTeX in custom-foot.html
   math_engine: mathjax
+  # The next four reproduce what the github-pages gem used to inject
+  input: GFM
+  hard_wrap: false
+  gfm_quirks: paragraph_end
+  syntax_highlighter_opts:
+    default_lang: plaintext
+
+# Also inherited from the github-pages gem: publish future-dated items, and
+# compress the CSS (the gem only did so in production)
+future: true
+sass:
+  style: compressed
 
 theme: jekyll-theme-hydeout
 

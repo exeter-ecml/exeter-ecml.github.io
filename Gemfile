@@ -14,9 +14,12 @@ gem "jekyll-theme-hydeout", "~> 5.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "github-pages", "~> 232"
   gem "jekyll-feed", "~> 0.17.0"
 end
+
+# Jekyll 3 reads Markdown as GFM but does not depend on the parser itself;
+# the github-pages gem used to pull it in.
+gem "kramdown-parser-gfm", "~> 1.1"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.

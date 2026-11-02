@@ -14,7 +14,7 @@ gem "jekyll-theme-hydeout", "~> 5.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.17.0"
+  gem "jekyll-feed", "~> 0.18.0"
 end
 
 # Jekyll 3 reads Markdown as GFM but does not depend on the parser itself;

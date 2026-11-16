@@ -2,7 +2,7 @@
     "devDependencies": {
         "stylelint": "^17.16.0",
         "stylelint-config-sass-guidelines": "^13.0.0",
-        "stylelint-config-standard-scss": "^17.0.0"
+        "stylelint-config-standard-scss": "^18.0.0"
     },
     "scripts": {
         "stylelint": "stylelint \"_sass/**/*.scss\""
